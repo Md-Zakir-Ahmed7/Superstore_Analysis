@@ -52,4 +52,4 @@ The **Superstore Analysis** project focuses on extracting key performance indica
 The **Superstore Analysis** project provided critical business insights into **sales growth, profit trends, return rates, and customer segments**. By leveraging **Power Query for data transformation, DAX for calculations, and Power BI for visualization**, the analysis helped in **strategic decision-making** to optimize profitability and reduce return rates.
 
 ### **🚀 Check out the dashboard!**  
-[View the Power BI Report](<INSERT_LINK_HERE>)  
+[View the Power BI Report](<https://github.com/Md-Zakir-Ahmed7/Superstore_Analysis/blob/main/Superstore_Report.png>)  
